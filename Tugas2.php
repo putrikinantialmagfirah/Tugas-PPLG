@@ -1,4 +1,6 @@
 <?php
-$nama = "Putri Kinanti Almagfirah" ;
+$nama1 = "Putri" ;
+$nama2 = "Kinanti" ;
+$nama3 = "Almagfirah" ;
 
-echo $nama;
+echo "Nama Saya $nama1 $nama2 $nama3" ;
