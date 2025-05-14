@@ -1,6 +1,6 @@
 <?php
 $kondisiakifahsehat = true;
-$kondisiwaliakifahsehat = false;
+$kondisiwaliakifahsehat = true;
 
 if ($kondisiakifahsehat && $kondisiwaliakifahsehat){
     echo "Maka Akifah ke sekolah";

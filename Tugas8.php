@@ -2,7 +2,7 @@
 $nadiatidakpuasa = false;
 
 if (!$nadiatidakpuasa){
-    echo "Nadia makan bakso";
+    echo "Nadia buka puasa makan bakso";
 }else{
     echo "Nadia makan siang coto";
 }
